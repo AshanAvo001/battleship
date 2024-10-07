@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BattleshipGameApi.Controllers.GameController",
+    "Method": "FireShot",
+    "RelativePath": "Game/fire",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "position",
+        "Type": "BattleshipGameDomain.Position",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

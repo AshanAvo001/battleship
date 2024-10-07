@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BattleshipGameServices/1.0.0": {
+        "dependencies": {
+          "BattleshipGameDomain": "1.0.0"
+        },
+        "runtime": {
+          "BattleshipGameServices.dll": {}
+        }
+      },
+      "BattleshipGameDomain/1.0.0": {
+        "runtime": {
+          "BattleshipGameDomain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleshipGameServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BattleshipGameDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\bin\Debug\net8.0\BattleshipGameDomain.deps.json
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\bin\Debug\net8.0\BattleshipGameDomain.dll
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\bin\Debug\net8.0\BattleshipGameDomain.pdb
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.AssemblyInfoInputs.cache
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.AssemblyInfo.cs
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.csproj.CoreCompileInputs.cache
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.dll
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\refint\BattleshipGameDomain.dll
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\BattleshipGameDomain.pdb
+C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameDomain\obj\Debug\net8.0\ref\BattleshipGameDomain.dll

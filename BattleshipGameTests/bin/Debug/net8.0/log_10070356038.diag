@@ -1,0 +1,27 @@
+2024-10-07T03:08:56.0429138+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.2.1+a0515c5c6f630f1c6063a53a67d3eccf841faa6e
+2024-10-07T03:08:56.0505729+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2024-10-07T03:08:56.0514468+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2024-10-07T03:08:56.0514510+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 03:08:56.011
+2024-10-07T03:08:56.0555336+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 17524
+2024-10-07T03:08:56.0556159+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 8.0.8
+2024-10-07T03:08:56.0556237+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.8\System.Private.CoreLib.dll
+2024-10-07T03:08:56.0556285+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2024-10-07T03:08:56.0556305+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameTests\bin\Debug\net8.0\BattleshipGameTests.dll
+2024-10-07T03:08:56.0557144+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameTests\bin\Debug\net8.0 --results-directory C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\TestResults --client-port 64799'
+2024-10-07T03:08:56.0568731+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2024-10-07T03:08:56.0672653+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2024-10-07T03:08:56.0699909+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\AshanPerera\Desktop\Dump\tests\BattleshipGameApi\BattleshipGameTests\bin\Debug\net8.0\BattleshipGameTests.testingplatformconfig.json' not found.
+2024-10-07T03:08:56.0708773+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2024-10-07T03:08:56.0884532+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION TestApplicationOptions.EnableTelemetry: True
+2024-10-07T03:08:56.0890980+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION TESTINGPLATFORM_TELEMETRY_OPTOUT environment variable: '0'
+2024-10-07T03:08:56.0891242+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION DOTNET_CLI_TELEMETRY_OPTOUT environment variable: ''
+2024-10-07T03:08:56.0891342+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION TESTINGPLATFORM_NOBANNER environment variable: ''
+2024-10-07T03:08:56.0891360+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION DOTNET_NOLOGO environment variable: ''
+2024-10-07T03:08:56.0891371+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION Telemetry is 'ENABLED'
+2024-10-07T03:08:56.0965249+00:00 Microsoft.Testing.Platform.Telemetry.TelemetryManager INFORMATION Telemetry collector provider: 'Microsoft.Testing.Extensions.Telemetry.AppInsightsProvider'
+2024-10-07T03:08:56.1157921+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost INFORMATION Starting server mode
+2024-10-07T03:08:56.1426859+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost INFORMATION Received initialize request
+2024-10-07T03:08:56.1428661+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost INFORMATION Connection established with 'Microsoft Visual Studio Testing Platform Client', protocol version 1.0.0
+2024-10-07T03:08:56.1588657+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost INFORMATION Received testing/discoverTests request
+2024-10-07T03:08:56.1700701+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION TestFrameworkAdapter UID: 'MSTestExtension' Version: '3.4.3' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2024-10-07T03:08:56.2473419+00:00 Microsoft.Testing.Platform.Hosts.ServerTestHost INFORMATION Server requested to shutdown

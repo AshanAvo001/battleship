@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89169628-02F2-4964-8DB7-BE136038C730}|BattleshipGameApi\\BattleshipGameApi.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgameapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89169628-02F2-4964-8DB7-BE136038C730}|BattleshipGameApi\\BattleshipGameApi.csproj|solutionrelative:battleshipgameapi\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgamedomain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|solutionrelative:battleshipgamedomain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgamedomain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|solutionrelative:battleshipgamedomain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgamedomain\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|solutionrelative:battleshipgamedomain\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgamedomain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EFC4817-6D75-43A5-8E49-25233B5AABC1}|BattleshipGameDomain\\BattleshipGameDomain.csproj|solutionrelative:battleshipgamedomain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B3166E-7152-4077-8165-15593A430F03}|BattleshipGameServices\\BattleshipGameServices.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgameservices\\implementations\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B3166E-7152-4077-8165-15593A430F03}|BattleshipGameServices\\BattleshipGameServices.csproj|solutionrelative:battleshipgameservices\\implementations\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B3166E-7152-4077-8165-15593A430F03}|BattleshipGameServices\\BattleshipGameServices.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\battleshipgameservices\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B3166E-7152-4077-8165-15593A430F03}|BattleshipGameServices\\BattleshipGameServices.csproj|solutionrelative:battleshipgameservices\\interfaces\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF47BA0A-88A4-4823-8E34-120A33648EAC}|GameServiceTests\\GameServiceTests.csproj|c:\\users\\ashanperera\\desktop\\dump\\tests\\battleshipgameapi\\gameservicetests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF47BA0A-88A4-4823-8E34-120A33648EAC}|GameServiceTests\\GameServiceTests.csproj|solutionrelative:gameservicetests\\gameservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameApi\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "BattleshipGameApi\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameApi\\Controllers\\GameController.cs",
+              "RelativeToolTip": "BattleshipGameApi\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:43.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Position.cs",
+              "RelativeDocumentMoniker": "BattleshipGameDomain\\Position.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Position.cs",
+              "RelativeToolTip": "BattleshipGameDomain\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Ship.cs",
+              "RelativeDocumentMoniker": "BattleshipGameDomain\\Ship.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Ship.cs",
+              "RelativeToolTip": "BattleshipGameDomain\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:37.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Cell.cs",
+              "RelativeDocumentMoniker": "BattleshipGameDomain\\Cell.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Cell.cs",
+              "RelativeToolTip": "BattleshipGameDomain\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Board.cs",
+              "RelativeDocumentMoniker": "BattleshipGameDomain\\Board.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameDomain\\Board.cs",
+              "RelativeToolTip": "BattleshipGameDomain\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:36.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameServices\\Implementations\\GameService.cs",
+              "RelativeDocumentMoniker": "BattleshipGameServices\\Implementations\\GameService.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameServices\\Implementations\\GameService.cs",
+              "RelativeToolTip": "BattleshipGameServices\\Implementations\\GameService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:30.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameServices\\Interfaces\\IGameService.cs",
+              "RelativeDocumentMoniker": "BattleshipGameServices\\Interfaces\\IGameService.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\BattleshipGameServices\\Interfaces\\IGameService.cs",
+              "RelativeToolTip": "BattleshipGameServices\\Interfaces\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:07:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\GameServiceTests\\GameServiceTests.cs",
+              "RelativeDocumentMoniker": "GameServiceTests\\GameServiceTests.cs",
+              "ToolTip": "C:\\Users\\AshanPerera\\Desktop\\Dump\\tests\\BattleshipGameApi\\GameServiceTests\\GameServiceTests.cs",
+              "RelativeToolTip": "GameServiceTests\\GameServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:04:41.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
